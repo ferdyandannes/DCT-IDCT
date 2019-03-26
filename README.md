@@ -1,3 +1,3 @@
 # DCT-IDCT
-DCT-IDCT iamge implementation on python
+DCT-IDCT image implementation on python
 The program required opencv & numpy
